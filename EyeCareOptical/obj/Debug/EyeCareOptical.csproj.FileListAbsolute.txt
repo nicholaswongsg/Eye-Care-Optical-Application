@@ -1,0 +1,85 @@
+c:\users\npstudent\documents\visual studio 2015\Projects\EyeCareOptical\EyeCareOptical\bin\Debug\EyeCareOptical.exe.config
+C:\Users\NPStudent\Desktop\EyeCareOptical\EyeCareOptical\bin\Debug\EyeCareOptical.exe.config
+C:\Users\NPStudent\Desktop\EyeCareOptical\EyeCareOptical\bin\Debug\EyeCareOptical.exe
+C:\Users\NPStudent\Desktop\EyeCareOptical\EyeCareOptical\bin\Debug\EyeCareOptical.pdb
+C:\Users\NPStudent\Desktop\EyeCareOptical\EyeCareOptical\obj\Debug\EyeCareOptical.csprojResolveAssemblyReference.cache
+C:\Users\NPStudent\Desktop\EyeCareOptical\EyeCareOptical\obj\Debug\EyeCareOptical.Login.resources
+C:\Users\NPStudent\Desktop\EyeCareOptical\EyeCareOptical\obj\Debug\EyeCareOptical.Properties.Resources.resources
+C:\Users\NPStudent\Desktop\EyeCareOptical\EyeCareOptical\obj\Debug\EyeCareOptical.csproj.GenerateResource.Cache
+C:\Users\NPStudent\Desktop\EyeCareOptical\EyeCareOptical\obj\Debug\EyeCareOptical.exe
+C:\Users\NPStudent\Desktop\EyeCareOptical\EyeCareOptical\obj\Debug\EyeCareOptical.pdb
+C:\Users\NPStudent\Desktop\EyeCareOptical\EyeCareOptical\obj\Debug\EyeCareOptical.Main.resources
+C:\Users\NPStudent\Desktop\Ngee Ann Poly\EyeCareOptical\EyeCareOptical\bin\Debug\EyeCareOptical.exe.config
+C:\Users\NPStudent\Desktop\Ngee Ann Poly\EyeCareOptical\EyeCareOptical\obj\Debug\EyeCareOptical.exe
+C:\Users\NPStudent\Desktop\Ngee Ann Poly\EyeCareOptical\EyeCareOptical\obj\Debug\EyeCareOptical.pdb
+C:\Users\NPStudent\Desktop\Ngee Ann Poly\EyeCareOptical\EyeCareOptical\bin\Debug\EyeCareOptical.exe
+C:\Users\NPStudent\Desktop\Ngee Ann Poly\EyeCareOptical\EyeCareOptical\bin\Debug\EyeCareOptical.pdb
+C:\Users\NPStudent\Desktop\Ngee Ann Poly\EyeCareOptical\EyeCareOptical\obj\Debug\EyeCareOptical.csprojResolveAssemblyReference.cache
+C:\Users\NPStudent\Desktop\Ngee Ann Poly\EyeCareOptical\EyeCareOptical\obj\Debug\EyeCareOptical.Login.resources
+C:\Users\NPStudent\Desktop\Ngee Ann Poly\EyeCareOptical\EyeCareOptical\obj\Debug\EyeCareOptical.Main.resources
+C:\Users\NPStudent\Desktop\Ngee Ann Poly\EyeCareOptical\EyeCareOptical\obj\Debug\EyeCareOptical.Properties.Resources.resources
+C:\Users\NPStudent\Desktop\Ngee Ann Poly\EyeCareOptical\EyeCareOptical\obj\Debug\EyeCareOptical.csproj.GenerateResource.Cache
+C:\Users\LookberOut\Desktop\EyeCareOptical\EyeCareOptical\bin\Debug\EyeCareOptical.exe.config
+C:\Users\LookberOut\Desktop\EyeCareOptical\EyeCareOptical\obj\Debug\EyeCareOptical.exe
+C:\Users\LookberOut\Desktop\EyeCareOptical\EyeCareOptical\obj\Debug\EyeCareOptical.pdb
+C:\Users\LookberOut\Desktop\EyeCareOptical\EyeCareOptical\bin\Debug\EyeCareOptical.exe
+C:\Users\LookberOut\Desktop\EyeCareOptical\EyeCareOptical\bin\Debug\EyeCareOptical.pdb
+C:\Users\LookberOut\Desktop\EyeCareOptical\EyeCareOptical\obj\Debug\EyeCareOptical.csprojResolveAssemblyReference.cache
+C:\Users\LookberOut\Desktop\EyeCareOptical\EyeCareOptical\obj\Debug\EyeCareOptical.Login.resources
+C:\Users\LookberOut\Desktop\EyeCareOptical\EyeCareOptical\obj\Debug\EyeCareOptical.Main.resources
+C:\Users\LookberOut\Desktop\EyeCareOptical\EyeCareOptical\obj\Debug\EyeCareOptical.Properties.Resources.resources
+C:\Users\LookberOut\Desktop\EyeCareOptical\EyeCareOptical\obj\Debug\EyeCareOptical.csproj.GenerateResource.Cache
+F:\Eye Care Optical Full Files v1.1\EyeCareOptical\EyeCareOptical\bin\Debug\EyeCareOptical.exe.config
+F:\Eye Care Optical Full Files v1.1\EyeCareOptical\EyeCareOptical\obj\Debug\EyeCareOptical.exe
+F:\Eye Care Optical Full Files v1.1\EyeCareOptical\EyeCareOptical\obj\Debug\EyeCareOptical.pdb
+F:\Eye Care Optical Full Files v1.1\EyeCareOptical\EyeCareOptical\bin\Debug\EyeCareOptical.exe
+F:\Eye Care Optical Full Files v1.1\EyeCareOptical\EyeCareOptical\bin\Debug\EyeCareOptical.pdb
+F:\Eye Care Optical Full Files v1.1\EyeCareOptical\EyeCareOptical\obj\Debug\EyeCareOptical.csprojResolveAssemblyReference.cache
+F:\Eye Care Optical Full Files v1.1\EyeCareOptical\EyeCareOptical\obj\Debug\EyeCareOptical.Login.resources
+F:\Eye Care Optical Full Files v1.1\EyeCareOptical\EyeCareOptical\obj\Debug\EyeCareOptical.Main.resources
+F:\Eye Care Optical Full Files v1.1\EyeCareOptical\EyeCareOptical\obj\Debug\EyeCareOptical.Properties.Resources.resources
+F:\Eye Care Optical Full Files v1.1\EyeCareOptical\EyeCareOptical\obj\Debug\EyeCareOptical.csproj.GenerateResource.Cache
+G:\Eye Care Optical Full Files v1.1\EyeCareOptical\EyeCareOptical\bin\Debug\EyeCareOptical.exe.config
+G:\Eye Care Optical Full Files v1.1\EyeCareOptical\EyeCareOptical\obj\Debug\EyeCareOptical.exe
+G:\Eye Care Optical Full Files v1.1\EyeCareOptical\EyeCareOptical\obj\Debug\EyeCareOptical.pdb
+G:\Eye Care Optical Full Files v1.1\EyeCareOptical\EyeCareOptical\bin\Debug\EyeCareOptical.exe
+G:\Eye Care Optical Full Files v1.1\EyeCareOptical\EyeCareOptical\bin\Debug\EyeCareOptical.pdb
+G:\Eye Care Optical Full Files v1.1\EyeCareOptical\EyeCareOptical\obj\Debug\EyeCareOptical.csprojResolveAssemblyReference.cache
+G:\Eye Care Optical Full Files v1.1\EyeCareOptical\EyeCareOptical\obj\Debug\EyeCareOptical.Login.resources
+G:\Eye Care Optical Full Files v1.1\EyeCareOptical\EyeCareOptical\obj\Debug\EyeCareOptical.Main.resources
+G:\Eye Care Optical Full Files v1.1\EyeCareOptical\EyeCareOptical\obj\Debug\EyeCareOptical.Properties.Resources.resources
+G:\Eye Care Optical Full Files v1.1\EyeCareOptical\EyeCareOptical\obj\Debug\EyeCareOptical.csproj.GenerateResource.Cache
+C:\Users\NPStudent\Desktop\FINAL SUBMISSION v2.0\EyeCareOptical\bin\Debug\EyeCareOptical.exe.config
+C:\Users\NPStudent\Desktop\FINAL SUBMISSION v2.0\EyeCareOptical\obj\Debug\EyeCareOptical.exe
+C:\Users\NPStudent\Desktop\FINAL SUBMISSION v2.0\EyeCareOptical\obj\Debug\EyeCareOptical.pdb
+C:\Users\NPStudent\Desktop\FINAL SUBMISSION v2.0\EyeCareOptical\bin\Debug\CustomerECO.accdb
+C:\Users\NPStudent\Desktop\FINAL SUBMISSION v2.0\EyeCareOptical\bin\Debug\EyeCareOptical.exe
+C:\Users\NPStudent\Desktop\FINAL SUBMISSION v2.0\EyeCareOptical\bin\Debug\EyeCareOptical.pdb
+C:\Users\NPStudent\Desktop\FINAL SUBMISSION v2.0\EyeCareOptical\obj\Debug\EyeCareOptical.csprojResolveAssemblyReference.cache
+C:\Users\NPStudent\Desktop\FINAL SUBMISSION v2.0\EyeCareOptical\obj\Debug\EyeCareOptical.Login.resources
+C:\Users\NPStudent\Desktop\FINAL SUBMISSION v2.0\EyeCareOptical\obj\Debug\EyeCareOptical.Main.resources
+C:\Users\NPStudent\Desktop\FINAL SUBMISSION v2.0\EyeCareOptical\obj\Debug\EyeCareOptical.Properties.Resources.resources
+C:\Users\NPStudent\Desktop\FINAL SUBMISSION v2.0\EyeCareOptical\obj\Debug\EyeCareOptical.csproj.GenerateResource.Cache
+C:\Users\NPStudent\Desktop\FINAL SUBMISSION V4.0\EyeCareOptical\bin\Debug\EyeCareOptical.exe.config
+C:\Users\NPStudent\Desktop\FINAL SUBMISSION V4.0\EyeCareOptical\obj\Debug\EyeCareOptical.exe
+C:\Users\NPStudent\Desktop\FINAL SUBMISSION V4.0\EyeCareOptical\obj\Debug\EyeCareOptical.pdb
+C:\Users\NPStudent\Desktop\FINAL SUBMISSION V4.0\EyeCareOptical\bin\Debug\CustomerECO.accdb
+C:\Users\NPStudent\Desktop\FINAL SUBMISSION V4.0\EyeCareOptical\bin\Debug\EyeCareOptical.exe
+C:\Users\NPStudent\Desktop\FINAL SUBMISSION V4.0\EyeCareOptical\bin\Debug\EyeCareOptical.pdb
+C:\Users\NPStudent\Desktop\FINAL SUBMISSION V4.0\EyeCareOptical\obj\Debug\EyeCareOptical.csprojResolveAssemblyReference.cache
+C:\Users\NPStudent\Desktop\FINAL SUBMISSION V4.0\EyeCareOptical\obj\Debug\EyeCareOptical.Login.resources
+C:\Users\NPStudent\Desktop\FINAL SUBMISSION V4.0\EyeCareOptical\obj\Debug\EyeCareOptical.Main.resources
+C:\Users\NPStudent\Desktop\FINAL SUBMISSION V4.0\EyeCareOptical\obj\Debug\EyeCareOptical.Properties.Resources.resources
+C:\Users\NPStudent\Desktop\FINAL SUBMISSION V4.0\EyeCareOptical\obj\Debug\EyeCareOptical.csproj.GenerateResource.Cache
+\\192.168.1.10\nicholas\Personal\4. Ngee Ann Polytechnic\Business Applications\Eye Care Optical Full Files\FINAL SUBMISSION V4.0\EyeCareOptical\bin\Debug\CustomerECO.accdb
+\\192.168.1.10\nicholas\Personal\4. Ngee Ann Polytechnic\Business Applications\Eye Care Optical Full Files\FINAL SUBMISSION V4.0\EyeCareOptical\bin\Debug\EyeCareOptical.exe.config
+\\192.168.1.10\nicholas\Personal\4. Ngee Ann Polytechnic\Business Applications\Eye Care Optical Full Files\FINAL SUBMISSION V4.0\EyeCareOptical\bin\Debug\EyeCareOptical.exe
+\\192.168.1.10\nicholas\Personal\4. Ngee Ann Polytechnic\Business Applications\Eye Care Optical Full Files\FINAL SUBMISSION V4.0\EyeCareOptical\bin\Debug\EyeCareOptical.pdb
+\\192.168.1.10\nicholas\Personal\4. Ngee Ann Polytechnic\Business Applications\Eye Care Optical Full Files\FINAL SUBMISSION V4.0\EyeCareOptical\obj\Debug\EyeCareOptical.csprojAssemblyReference.cache
+\\192.168.1.10\nicholas\Personal\4. Ngee Ann Polytechnic\Business Applications\Eye Care Optical Full Files\FINAL SUBMISSION V4.0\EyeCareOptical\obj\Debug\EyeCareOptical.Login.resources
+\\192.168.1.10\nicholas\Personal\4. Ngee Ann Polytechnic\Business Applications\Eye Care Optical Full Files\FINAL SUBMISSION V4.0\EyeCareOptical\obj\Debug\EyeCareOptical.Main.resources
+\\192.168.1.10\nicholas\Personal\4. Ngee Ann Polytechnic\Business Applications\Eye Care Optical Full Files\FINAL SUBMISSION V4.0\EyeCareOptical\obj\Debug\EyeCareOptical.Properties.Resources.resources
+\\192.168.1.10\nicholas\Personal\4. Ngee Ann Polytechnic\Business Applications\Eye Care Optical Full Files\FINAL SUBMISSION V4.0\EyeCareOptical\obj\Debug\EyeCareOptical.csproj.GenerateResource.cache
+\\192.168.1.10\nicholas\Personal\4. Ngee Ann Polytechnic\Business Applications\Eye Care Optical Full Files\FINAL SUBMISSION V4.0\EyeCareOptical\obj\Debug\EyeCareOptical.csproj.CoreCompileInputs.cache
+\\192.168.1.10\nicholas\Personal\4. Ngee Ann Polytechnic\Business Applications\Eye Care Optical Full Files\FINAL SUBMISSION V4.0\EyeCareOptical\obj\Debug\EyeCareOptical.exe
+\\192.168.1.10\nicholas\Personal\4. Ngee Ann Polytechnic\Business Applications\Eye Care Optical Full Files\FINAL SUBMISSION V4.0\EyeCareOptical\obj\Debug\EyeCareOptical.pdb
